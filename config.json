@@ -16,7 +16,7 @@
 
   "group_exit_prompt": "请你随机使用一种风格跟其他群用户说他违反规则\"{nickname}\"退出群聊。",
 
-  "patpat_prompt": "请你随机使用一种风格介绍你自己，并告诉用户输入功能列表可以查看帮助信息。",
+  "patpat_prompt": "请你随机使用一种风格介绍你自己，并告诉用户输入【功能列表】可以查看帮助信息。",
 
   "use_character_desc": true
 }
